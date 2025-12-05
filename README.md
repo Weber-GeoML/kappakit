@@ -1,6 +1,6 @@
 <a href="https://kappakit.readthedocs.io/en/latest/"><img alt="Documentation" src="https://img.shields.io/website?url=https%3A%2F%2Fkappakit.readthedocs.io%2Fen%2Flatest%2F&up_message=sphinx&label=docs&color=blue"></a>
 <a href="https://pypi.org/project/kappakit/"><img alt="Python version" src="https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2FWeber-GeoML%2Fkappakit%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&color=green"></a>
-<a href="https://github.com/Weber-GeoML/kappakit/blob/main/LICENSE.txt"><img alt="Code license" src="https://img.shields.io/github/license/Weber-GeoML/kappakit?color=blue"></a>
+<a href="https://github.com/Weber-GeoML/kappakit/blob/master/LICENSE.txt"><img alt="Code license" src="https://img.shields.io/github/license/Weber-GeoML/kappakit?color=blue"></a>
 <a href="https://github.com/Weber-GeoML/kappakit/releases"><img alt="GitHub release" src="https://img.shields.io/github/v/release/Weber-GeoML/kappakit?color=green"></a>
 
 # KappaKit: Curvature Estimation on Data Manifolds with Diffusion-Augmented Sampling
